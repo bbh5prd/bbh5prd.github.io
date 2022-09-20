@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>mbox</title>
+    <g id="ave-群聊2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="红包创建失败提示" transform="translate(-115.000000, -55.000000)">
+            <g id="编组" transform="translate(115.000000, 52.000000)">
+                <g id="mbox" transform="translate(0.000000, 3.000000)">
+                    <circle id="椭圆形" fill="#1B55F5" cx="15" cy="15" r="15"></circle>
+                    <g id="编组" transform="translate(4.600000, 11.700000)">
+                        <polygon id="矩形" fill="#B5C7FF" points="0 3.14511719 5.3 0 5.3 5.47148438 0 8.64511719"></polygon>
+                        <polygon id="矩形备份" fill="#FFFFFF" transform="translate(7.950000, 4.322559) scale(-1, 1) translate(-7.950000, -4.322559) " points="5.3 3.14511719 10.6 0 10.6 5.47148438 5.3 8.64511719"></polygon>
+                    </g>
+                    <g id="编组备份" transform="translate(15.200000, 11.700000)">
+                        <polygon id="矩形" fill="#B5C7FF" points="0 3.14511719 5.3 0 5.3 5.47148438 0 8.64511719"></polygon>
+                        <polygon id="矩形备份" fill="#FFFFFF" transform="translate(7.950000, 4.322559) scale(-1, 1) translate(-7.950000, -4.322559) " points="5.3 3.14511719 10.6 2.66453526e-14 10.6 5.47148438 5.3 8.64511719"></polygon>
+                    </g>
+                    <polygon id="路径-2" fill="#FAB508" points="15 8.52724609 11.0743164 10.9205078 15 13.3415039 19.0024414 10.934375"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
